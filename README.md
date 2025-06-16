@@ -79,9 +79,13 @@ Team Members:
   4. Induwara Ayeshkantha 
   5.pankaja malshan
 
+
+Key tools: Arduino, PID, Circuit design, Color & metal sensors, Hardware Design
+
 ![1711390294160](https://github.com/user-attachments/assets/960789bc-253a-474a-a4bb-790b0e43554d)
-![17113903![1711390325767](https://github.com/user-attachments/assets/ff5c6f1b-5933-4324-b073-8a3f6c9a00f9)
+![1711390325767](https://github.com/user-attachments/assets/ff5c6f1b-5933-4324-b073-8a3f6c9a00f9)
 ![1711390312602](https://github.com/user-attachments/assets/61b454cb-2a3f-4e78-8ca4-090ad8b1b3ef)
+
 
 
 
