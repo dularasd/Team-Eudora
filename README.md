@@ -64,11 +64,11 @@ A multipurpose autonomous robot capable of:
 
 🏆 Competition 
 
-   🏛️ Event: SLRC 2024 – Selection Round
+    🏛️ Event: SLRC 2024 – Selection Round
 
-   📍 Venue: University of Moratuwa
+    📍 Venue: University of Moratuwa
 
-   🎓 Represented: University of Jaffna
+    🎓 Represented: University of Jaffna
 
 
 
